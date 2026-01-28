@@ -4,10 +4,6 @@
 I'm Vishal — a passionate and detail-oriented <strong>.NET Developer</strong> with 3+ years of experience building scalable backend systems, modern web applications, automation solutions, and efficient data scraping tools.
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VishalCodeCraft&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -68,8 +64,8 @@ I'm Vishal — a passionate and detail-oriented <strong>.NET Developer</strong> 
 
 <p>
 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vishal-chauhan-81a583179" target="_blank">linkedin.com/in/vishal-chauhan-81a583179</a><br>
-📧 <strong>Email:</strong> <a href="mailto:vcchauhanoy@gmail.com">vcchauhanoy@gmail.com</a> <br>
-🌐 <strong>Portfolio:</strong> Coming Soon
+📧 <strong>Email:</strong> <a href="mailto:vishal.webdev@zohomail.in">vishal.webdev@zohomail.in</a> <br>
+🌐 <strong>Portfolio:</strong> <a href="https://vishalcodecraft.github.io/" target="_blank">vishalcodecraft.github.io</a>
 </p>
 
 ---
