@@ -1,7 +1,7 @@
 <h2 align="left">Hey 👋 What's up?</h2>
 
 <p align="left">
-I'm Vishal — a passionate and detail-oriented <strong>.NET Developer</strong> with 3+ years of experience building scalable backend systems, modern web applications, automation solutions, and efficient data scraping tools.
+I'm Vishal — a passionate and detail-oriented <strong>.NET Developer</strong> with 4+ years of experience building scalable backend systems, modern web applications, automation solutions, and efficient data scraping tools.
 </p>
 
 <br/>
